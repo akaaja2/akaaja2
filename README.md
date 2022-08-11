@@ -2,6 +2,10 @@
 
 - 🌱 I’m currently learning basic frontend
 - 💞️ I’m looking to collaborate on economic model visualizations
+Project ideas:
+• Personal inflation mapper
+• Macroeconomic Energy current (pun intended) account tracker
+• MONIAC (Financephalograph) emulator
 - 📫 How to reach me TBD
 
 <!---
