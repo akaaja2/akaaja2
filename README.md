@@ -1,12 +1,6 @@
 - 👋 Hi, I’m Al, @akaaja2
-Building with claude 
-- 💞️ I’m looking to collaborate on economic model visualizations
-
-Project ideas:
-• Personal inflation mapper
-• Macroeconomic Energy current (pun intended) account tracker
-• MONIAC (Financephalograph) emulators
-
+Building with claude and codex
+- 💞️ I’m looking to collaborate on economic model visualizations and world models 
 
 <!---
 akaaja2/akaaja2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
